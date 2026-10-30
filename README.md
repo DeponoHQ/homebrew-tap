@@ -1,6 +1,7 @@
 # Depono Homebrew tap
 
 ```sh
+brew trust DeponoHQ/tap   # once; Homebrew 7 asks before using a third-party tap
 brew install DeponoHQ/tap/depono
 ```
 
